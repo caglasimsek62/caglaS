@@ -7,6 +7,7 @@ public class cagla {
 
         System.out.println("second push");
 
+        System.out.println("first branch ");
 
 
     }
